@@ -1,4 +1,5 @@
-##hey yo  ,everyone welcome to my git guide!
+##welcome to git
 
-yo adrain here
+- this is frm jsm
 - im adding this from 'feature'
+- ok now we like this version
